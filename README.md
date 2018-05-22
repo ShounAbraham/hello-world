@@ -1,2 +1,2 @@
 # hello-world
-test
+An account for my university projects.
